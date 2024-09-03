@@ -10,20 +10,6 @@ echo "GitHub: https://github.com/emrekybs"
 echo "Author: Emre Koybasi (bloodbane)"
 echo -e "\e[0m"
 
-
-### Statistics of Top 20 addresses
-### SQL injection analysis
-### SQL injection FROM query statistics
-### Scanner/common hacker tools
-### Vulnerability exploitation detection
-### Sensitive path access
-### File inclusion attacks
-### HTTP Tunnel
-### Webshell
-### Finding URLs with the top 20 response lengths
-### Finding access to rare script files
-### Finding 302 redirects for script files
-
 outfile=/tmp/logs
 
 if [ -d $outfile ]; then
