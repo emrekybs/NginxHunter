@@ -1,8 +1,10 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-Emrekybs-red)
 
 # NginxHunter 
-NginxHunter is a comprehensive tool designed to analyze Nginx access logs for security vulnerabilities and suspicious activities. It detects SQL injection attempts, scanner tools, sensitive path accesses, exploitation attempts, webshells, and more. Ideal for system administrators and security professionals aiming to enhance their Nginx server security.
 <img src="https://github.com/emrekybs/NginxHunter/blob/main/image.jpg">
+
+# Description
+NginxHunter is a comprehensive tool designed to analyze Nginx access logs for security vulnerabilities and suspicious activities. It detects SQL injection attempts, scanner tools, sensitive path accesses, exploitation attempts, webshells, and more. Ideal for system administrators and security professionals aiming to enhance their Nginx server security.
 
 # Usage
 Using root privileges
